@@ -1,8 +1,8 @@
 # 👨‍💻 John Mary | Data Scientist
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://placehold.co/1200x400/2d2d2d/FFF?text=John+Mary%0+%26+Data+Scientist" alt="Banner">
-</p>
+</p> -->
 
 <h2 align="center">🛠 Technical Arsenal</h2>
 

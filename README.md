@@ -1,4 +1,4 @@
-# 👨‍💻 John Mary | Data Scientist
+<h2 align="center"> # 👨‍💻 John Mary | Data Scientist </h2>
 
 <!-- <p align="center">
   <img src="https://placehold.co/1200x400/2d2d2d/FFF?text=John+Mary%0+%26+Data+Scientist" alt="Banner">

@@ -1,4 +1,4 @@
-# 👨‍💻 John Mary | Full-Stack Developer & Data Scientist
+# 👨‍💻 John Mary | Data Scientist
 
 <p align="center">
   <img src="https://placehold.co/1200x400/2d2d2d/FFF?text=John+Mary%0AFull-Stack+Developer+%26+Data+Scientist" alt="Banner">

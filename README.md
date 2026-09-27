@@ -1,7 +1,7 @@
-<h1 align="center">John Mary | Data Scientist</h1>
+<h1 align="center">John Mary | Data Scientist | Statistician</h1>
 
 <p align="center">
-Building data-driven products across web and ML, from Nairobi.
+Building data-driven products across web and ML.
 </p>
 
 ## Stack
@@ -12,13 +12,6 @@ Building data-driven products across web and ML, from Nairobi.
 **Databases:** PostgreSQL, MySQL
 **Tools:** Git, Docker, AWS, Vercel, GitHub Actions
 **Currently learning:** Rust, Apache Spark, Go, Kubernetes
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Okalmary254&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okalmary254&layout=compact&theme=radical" alt="Top Languages" height="165">
-</p>
 
 ## Contact
 
